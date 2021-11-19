@@ -1,0 +1,68 @@
+// .u-inner {
+// 	width: 90%;
+// 	max-width: 1100px;
+// 	margin: 0 auto;
+// }
+// .training-schedule__area-img {
+//   width: 681px;
+//   height: 244px;
+//   overflow-x: scroll;
+// 	-webkit-overflow-scrolling: touch;
+// 	margin-right: -25px;
+// 	&::-webkit-scrollbar {
+// 		width: 1px;
+// 		height: 5px;
+// 	}
+// 	&::-webkit-scrollbar-thumb {
+//  		background: #757575;
+//   	border-radius: 1000px;
+// 	}
+// 	&::-webkit-scrollbar-track {
+//     background-color: red;
+//     border-radius: 100px;
+// 	}
+// }
+// @media screen and (min-width:768px) {
+// 	.training-schedule {
+// 		&__area-img {
+// 			margin-right: 0;
+// 			overflow-x: visible;
+// 			width: 1100px;
+// 			height: 323px;
+// 		}
+// 		&__area-img-in {
+// 			width: 1100px;
+// 			height: auto;
+// 		}
+// 	}
+// }
+
+// *{margin: 0;padding: 0;list-style: none;box-sizing: border-box;}
+// .list{
+//     width: 1000px;
+//     margin: 300px auto 0 auto;
+//     overflow: hidden;
+// }
+// .list li{
+//     padding: 20px;
+//     background-color: #0c4dd5;
+//     margin-right: 20px;
+//     margin-bottom: 10px;
+//     color: #fff;
+//     font-size: 20px;
+//     cursor: pointer;
+// }
+
+
+// .blue{
+//  color:blue;
+// }
+// #red{
+//  color:red;
+// }
+
+.box__item {
+	background-color: pink;
+	width: 100px;
+	height: 100px;
+}
